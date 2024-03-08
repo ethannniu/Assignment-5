@@ -1,6 +1,6 @@
 <svg viewbox="0 0 150 50"
       version="1.1"
-     xmlns="http://www.w3.org/2000/svg">>
+     xmlns="http://www.w3.org/2000/svg">
   <path fill="none" stroke="lightgrey" d="M30,10 L100,10 L100,80 L30,80 Z" />
     <circle r="5" fill="red">
     <animateMotion dur="20s" repeatCount="indefinite" path="M30,10 L100,10 L100,80 L30,80 Z"/>
